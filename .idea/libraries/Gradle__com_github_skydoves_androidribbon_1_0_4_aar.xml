@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.skydoves:androidribbon:1.0.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/516b767b49bdc995c3304d996e535c5f/transformed/jetified-androidribbon-1.0.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/516b767b49bdc995c3304d996e535c5f/transformed/jetified-androidribbon-1.0.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/516b767b49bdc995c3304d996e535c5f/transformed/jetified-androidribbon-1.0.4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.skydoves/androidribbon/1.0.4/64fa8f953f95e194e35a48dbaa65076120f5cce6/androidribbon-1.0.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.skydoves/androidribbon/1.0.4/146988fdd52e39db5fbb86d6aa78d16fe92036f7/androidribbon-1.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

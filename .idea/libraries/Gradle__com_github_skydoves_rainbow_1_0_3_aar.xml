@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.skydoves:rainbow:1.0.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b8a2d370136d71c8d61169b497d15cba/transformed/jetified-rainbow-1.0.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b8a2d370136d71c8d61169b497d15cba/transformed/jetified-rainbow-1.0.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b8a2d370136d71c8d61169b497d15cba/transformed/jetified-rainbow-1.0.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.skydoves/rainbow/1.0.3/23d8154afc1ce0aa26703c2a356cf0851f467111/rainbow-1.0.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.skydoves/rainbow/1.0.3/81efb34b75c46da51f83efcc2f79ca1669d0b8db/rainbow-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

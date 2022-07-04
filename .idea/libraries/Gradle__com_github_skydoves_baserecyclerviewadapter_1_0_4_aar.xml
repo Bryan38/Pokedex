@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.skydoves:baserecyclerviewadapter:1.0.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/eeea4fbc48972ed7c2dbf90c5e7c4fe3/transformed/jetified-baserecyclerviewadapter-1.0.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/eeea4fbc48972ed7c2dbf90c5e7c4fe3/transformed/jetified-baserecyclerviewadapter-1.0.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/eeea4fbc48972ed7c2dbf90c5e7c4fe3/transformed/jetified-baserecyclerviewadapter-1.0.4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.skydoves/baserecyclerviewadapter/1.0.4/aabd634694e56d80b93bc23e46137d9ceb38c5c1/baserecyclerviewadapter-1.0.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.skydoves/baserecyclerviewadapter/1.0.4/81beeb8831bf31ea4c3fa2376ce8fffc5f5e95b4/baserecyclerviewadapter-1.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

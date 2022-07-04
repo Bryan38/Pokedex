@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.skydoves:bindables:1.0.9@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/a1fc07767b753e2cd4bef3cc1f226591/transformed/jetified-bindables-1.0.9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a1fc07767b753e2cd4bef3cc1f226591/transformed/jetified-bindables-1.0.9/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a1fc07767b753e2cd4bef3cc1f226591/transformed/jetified-bindables-1.0.9/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.skydoves/bindables/1.0.9/7eee703d7c83d81af089c17f82d4f5598c32969c/bindables-1.0.9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.skydoves/bindables/1.0.9/c269acb12e21397a8288ab3fbaaa83f9545918a5/bindables-1.0.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
